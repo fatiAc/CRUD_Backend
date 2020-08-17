@@ -9,4 +9,4 @@ module.exports = {
     dialect : 'mssql',
 };
 
-// sequelize-auto -h 10.7.0.90 -d BD_INTEGRALE -u sqladmin -x AcChRgHax2C0p3s -p 1433  --dialect mssql -o ../src/models -t PRODUCT,CATEGORIE
+
